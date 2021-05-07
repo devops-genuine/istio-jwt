@@ -1,18 +1,12 @@
 {
     "keys": [
         {
-            "p": "-WhFRTMcDsoVsAsVnqr_OUfd6DBm2S83qPfpHKb9iweW1cUPgBL2CNSH9wTG79TVDlf8QVXqbxTWriyFCjqpqW21FHjafQZs7FRXZdDtq-c-yMzJLlt__6Nk9WMu__fguiwQPxOfQ_buAK0DH_kHM0N8-pZ_-uxbQ20cf6RAZ20",
-            "kty": "RSA",
-            "q": "m69TiNFiJFk_SsqV_Awa43esB2dSfYggVr5VBAn066Pni6WRpuNjWWmnE1w6A9xFiix54uixlAeMTbuWH9OU3obsghmCQghea0CNiQdC64cx1AtLygnQcGXq_mmZcBe2doSB7qEdV0xj4BX4aiRllDdaQH1_HN0gQ2vJR5iEle0",
-            "d": "kSm5FdPyGr4bazSPByLd-jyR8DQ3SQFmccC7xe9jJAUpvdMCTw4HnxHNV_KSqqLWcwftZBGPPaPFUWoez3Je8tvlUNG_tfGPIplGlraV_4gLR7neblkXPGKYshGhDydkjK4RKPHp1viilhGu0RbyhUKz1HQAr5PjENPzrMWgKE05ewkmTR0PICIa8qn0vTVdQcsg-OXUDbdM_6Z-e-t3z4dsRlmJLFhRDFzjYriEx9vVkNlhlcedzo1_Te06HPFDgNFUlbJnet1pjerm-lhd6fmg68a8pAUDcgo_KWFmr3sKZK73SCT52KSPdcCtcihVLpEdmagS_L9U1QVtDWtqsQ",
-            "e": "AQAB",
-            "use": "sig",
-            "kid": "poc",
-            "qi": "3qbucU4jTf5KSjpf30L9lUVXYGdPjmGSEV_POuw5vwHnW2ZBdz_z9xdN4ZYh5fJwPn9vxSwJIfTPY-RO4cDr793pYPP1p3H-BJIAfnp83-aimzW09BvPWIefbxzrPO7n82UZ5v_ACYcq7viNG3kxMMGN-KTLQ_aKNQ0yrcmjxdw",
-            "dp": "J5jjbpInwT1aZiHMY-2YKdr8I1IT8iVp-9yoWRE2Le2diAEKbfYUs-AyWgibIRa0YNudRC5E0zAGyY5t7OrVZv3xAvgREEqF3puhaJvcMC-9qxnAUyjZ0Jd7fu4pVyBewJAgYDNYVO0OanMNjPT3rK7pV8uvNAJ0lubq4GUOiJ0",
-            "alg": "PS256",
-            "dq": "V7nOx1y9AaBsordPFoy3pg9sF2voNqY7GsX7X-BAa3ubYLw2O6UL-XkoVSd15XD8mmR_dhYK4k_yhma6rEpsK4w5vwGivZS7p5HjbyBxXAh9Um_fEATBuGQlq6BTfq9N-LCoCpAs2WFJMh8PMLg7qO4b5BUTSG9t26_j5n0R0O0",
-            "n": "l6zxmloX51lW2JoPE1mDuYg6Euflo47oxvmR3oVHlw8voVzZYsKKVznjgrMUZEdlnXFnir6CsUkS6gToJGlHONZj9RMCaS8PLfRfbIjHsFrhbuSs6CqiDBjBFl0PtnAh1_SYhwbIT_k_W-k2fpKUQ11y7xTuICwXHsQVHLXGUiN1Glmw1yZQrRkFDsX42rFLctqwtcdkE7Mwc8QomDSLhZ5vcpRRdjoHFjbHJdv1trKuFib606kGsvwaRjfTBQm_ZvngGVPEk7W_up_8HktCvSgeJUoAipOJ0re-fq3FF9Rzuekqg8fsneBYVS0X0l_iHWntLcoxI-RJkN-dmAYw6Q"
-        }
+		  "kty": "RSA",
+		  "n": "5iTT6XwqdwgjIYoQuO5cSZGydDFG3uFHc9fOe4v4X9Y7CqumQHoxc4bMZUVRW8OoMKooEnjvmBlG83d8bq20DgnU1xAEq2-cpo9Z05sJJNLBLFrEBjH_fR2qBsPwldQimaB1Y77We9ikMU6UkXLQkESXNcXt2m974A6L7pePTIEA8zDD1uRVNnYRqhhBKhqDZ-tYFo-prhtmDZlvrGxCkm79deIgdJrra9vElqLwDCH2YyhsfpT8tHCCPeF6rx85mHpRtp-3yCor1RKFWN123akesCsDBZPWHP9O_FSsJQmDkM5xFcm4vHVLy8DUcgHdkfab-7t5JN_Lja9CZSeOPw",
+		  "e": "AQAB",
+		  "alg": "RS256",
+		  "kid": "poc",
+		  "use": "sig"
+		}
     ]
 }
